@@ -1,21 +1,18 @@
 /********************************************************
  * Sudoku 1.0
  * by Kendall Copp
- * 7/30/2020
+ * Project started: 7/30/2020
  *
  * Instructions:
  * left mouse to increment
  * right mouse to decrement
  * center wheel button to erase
- * 
- * save in-progress puzzle so you can go to menu and come back with 
- * progress saved and no extra locks
  *
  * increase number of puzzles
  * puzzle select
  * add achievements
  * add hints
- * break program into modules
+ * break program into modules as this one file is too long
 *********************************************************/
 
 PShape square; //pshape objects
